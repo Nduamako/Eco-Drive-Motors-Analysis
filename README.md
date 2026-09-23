@@ -153,3 +153,34 @@ Eco-Drive-Motors-Analysis/
 Period: Q1 2023 (January–March 2023)
 Focus: Automotive sales, sustainability, EV adoption, customer behavior, and financial performance.
 This project demonstrates how Power BI can be used to transform business data into actionable insights for strategic decision-making.
+
+## 🛠️ Tools & Skills
+
+- **Power BI** — Dashboard development, data visualization, KPI reporting
+- **Data Analysis** — Exploratory analysis, trend analysis, customer analysis
+- **Business Analysis** — Revenue, profitability, sales performance, and customer behavior
+- **Sustainability Analysis** — CO₂ emissions and environmental performance
+- **EV Analysis** — Electric vehicle adoption, economics, and customer adoption
+- **Data Storytelling** — Turning business data into actionable insights
+
+## 📊 Key Areas Analyzed
+
+- Sales and revenue performance
+- Vehicle and product performance
+- Customer behavior and adoption
+- EV adoption and economics
+- Sustainability and CO₂ reduction
+- Total Cost of Ownership (TCO)
+- Strategic recommendations
+
+## 📁 Project Files
+
+- `Dashboard/` — Power BI dashboard screenshots and visual analysis
+- `PowerBI/Eco Cars Analysis.pbix` — Power BI project file
+- `README.md` — Project documentation
+
+## 👤 Author
+
+**Nduamako Ndubuisi Amako**
+
+Data Analyst | Economics | Data Science | Business Intelligence

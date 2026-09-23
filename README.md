@@ -86,23 +86,29 @@ The analysis addresses the following questions:
 Based on the analysis, the following actions were identified:
 
 ### 1. Launch a Fleet Electrification Program
+
 Target high-value customers and business/fleet clients with tailored EV offers and infrastructure partnerships.
 
 ### 2. Increase EV Marketing
+
 Redirect part of the conventional vehicle marketing budget toward EV awareness and education.
 
-Focus messaging on both:
+Focus messaging on:
+
 - Total Cost of Ownership
 - Financial benefits
 - Environmental benefits
 
 ### 3. Introduce a TCO Calculator
+
 Provide customers with an interactive tool that compares long-term ownership costs between EV, petrol, and diesel vehicles.
 
 ### 4. Review High-Emission Models
+
 Evaluate the future production strategy for the highest-emission vehicle models and prioritize models generating strong revenue.
 
 ### 5. Expand the Customer Base
+
 Use regional test-drive events and corporate partnerships to reach customers beyond the existing high-value customer group.
 
 ---
@@ -135,24 +141,15 @@ Use regional test-drive events and corporate partnerships to reach customers bey
 
 ---
 
-## 📁 Project Structure
+## 📌 Project Scope
 
-```text
-Eco-Drive-Motors-Analysis/
-│
-├── README.md
-│
-├── 01_Overview.png
-├── 02_Sustainability_Financial_Performance.png
-├── 03_EV_Adoption_Economics.png
-├── 04_Customer_Adoption.png
-├── 05_KPI_Rationale.png
-└── 06_Recommendations.png
+**Period:** Q1 2023 (January–March 2023)
 
-📌 Project Scope
-Period: Q1 2023 (January–March 2023)
-Focus: Automotive sales, sustainability, EV adoption, customer behavior, and financial performance.
+**Focus:** Automotive sales, sustainability, EV adoption, customer behavior, and financial performance.
+
 This project demonstrates how Power BI can be used to transform business data into actionable insights for strategic decision-making.
+
+---
 
 ## 🛠️ Tools & Skills
 
@@ -162,6 +159,8 @@ This project demonstrates how Power BI can be used to transform business data in
 - **Sustainability Analysis** — CO₂ emissions and environmental performance
 - **EV Analysis** — Electric vehicle adoption, economics, and customer adoption
 - **Data Storytelling** — Turning business data into actionable insights
+
+---
 
 ## 📊 Key Areas Analyzed
 
@@ -173,11 +172,34 @@ This project demonstrates how Power BI can be used to transform business data in
 - Total Cost of Ownership (TCO)
 - Strategic recommendations
 
+---
+
+## 📁 Project Structure
+
+    Eco-Drive-Motors-Analysis/
+    │
+    ├── README.md
+    │
+    ├── Dashboard/
+    │   ├── 01_Overview.png
+    │   ├── 02_Sustainability_Financial_Performance.png
+    │   ├── 03_EV_Adoption_Economics.png
+    │   ├── 04_Customer_Adoption.png
+    │   ├── 05_KPI_Rationale.png
+    │   └── 06_Recommendations.png
+    │
+    └── PowerBI/
+        └── Eco Cars Analysis.pbix
+
+---
+
 ## 📁 Project Files
 
 - `Dashboard/` — Power BI dashboard screenshots and visual analysis
 - `PowerBI/Eco Cars Analysis.pbix` — Power BI project file
 - `README.md` — Project documentation
+
+---
 
 ## 👤 Author
 

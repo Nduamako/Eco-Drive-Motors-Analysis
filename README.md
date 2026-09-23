@@ -111,27 +111,27 @@ Use regional test-drive events and corporate partnerships to reach customers bey
 
 ### 1. Overview
 
-![Overview](01_Overview.png)
+![Overview](Dashboard/01_Overview.png)
 
 ### 2. Sustainability & Financial Performance
 
-![Sustainability and Financial Performance](02_Sustainability_Financial_Performance.png)
+![Sustainability and Financial Performance](Dashboard/02_Sustainability_Financial_Performance.png)
 
 ### 3. EV Adoption & Economics
 
-![EV Adoption and Economics](03_EV_Adoption_Economics.png)
+![EV Adoption and Economics](Dashboard/03_EV_Adoption_Economics.png)
 
 ### 4. Customer Adoption
 
-![Customer Adoption](04_Customer_Adoption.png)
+![Customer Adoption](Dashboard/04_Customer_Adoption.png)
 
 ### 5. KPI Rationale
 
-![KPI Rationale](05_KPI_Rationale.png)
+![KPI Rationale](Dashboard/05_KPI_Rationale.png)
 
 ### 6. Recommendations
 
-![Recommendations](06_Recommendations.png)
+![Recommendations](Dashboard/06_Recommendations.png)
 
 ---
 
